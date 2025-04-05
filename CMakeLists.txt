@@ -1,17 +1,13 @@
-cmake_minimum_required(VERSION 3.30)
-project(linked_list_sprint_project_mbphistory)
+cmake_minimum_required(VERSION 3.0)
+project(MBPHistory)
 
-set(CMAKE_CXX_STANDARD 14)
+find_package(Curses REQUIRED)
+include_directories(${CURSES_INCLUDE_DIR})
 
-include_directories(src)
-include_directories(src/event)
-include_directories(src/menu)
+set(SOURCES
+        main.cpp
+        src/event/event_core.cpp
+)
 
-add_executable(linked_list_sprint_project_mbphistory
-    src/event/event.h
-    src/event/event_core.cpp
-    src/event/event_io.cpp
-    src/menu/menu.h
-    src/menu/menu_actions.cpp
-    src/menu/menu_display.cpp
-    main.cpp)
+add_executable(mbphistory ${SOURCES})
+target_link_libraries(mbphistory ${CURSES_LIBRARIES})
