@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "linked_list_sprint_project_mbphistory",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "linked_list_sprint_project_mbphistory::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linked_list_sprint_project_mbphistory-Debug-96c646a77e47b17fc0c7.json",
+					"name" : "linked_list_sprint_project_mbphistory",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Ivo/CLionProjects/linked-list-sprint-project-mbphistory/cmake-build-debug",
+		"source" : "C:/Users/Ivo/CLionProjects/linked-list-sprint-project-mbphistory"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
