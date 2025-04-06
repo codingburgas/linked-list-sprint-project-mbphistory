@@ -5,8 +5,9 @@ find_package(Curses REQUIRED)
 include_directories(${CURSES_INCLUDE_DIR})
 
 set(SOURCES
-        main.cpp
-        src/event/event_core.cpp
+    main.cpp
+    src/event/event_core.cpp
+    src/menu/menu_display.cpp
 )
 
 add_executable(mbphistory ${SOURCES})

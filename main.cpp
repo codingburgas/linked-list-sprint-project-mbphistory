@@ -1,6 +1,7 @@
-#include <iostream>
+#include "src/menu/menu.h"
 
 int main() {
-    std::cout << "Bachka\n";
+    Event* head = nullptr;
+    showMenu(head);
     return 0;
 }
