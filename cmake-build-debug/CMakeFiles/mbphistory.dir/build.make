@@ -97,21 +97,69 @@ CMakeFiles/mbphistory.dir/src/event/event_core.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/mbphistory.dir/src/event/event_core.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kaloyan/linked-list-sprint-project-mbphistory/src/event/event_core.cpp -o CMakeFiles/mbphistory.dir/src/event/event_core.cpp.s
 
+CMakeFiles/mbphistory.dir/src/event/event_io.cpp.o: CMakeFiles/mbphistory.dir/flags.make
+CMakeFiles/mbphistory.dir/src/event/event_io.cpp.o: /home/kaloyan/linked-list-sprint-project-mbphistory/src/event/event_io.cpp
+CMakeFiles/mbphistory.dir/src/event/event_io.cpp.o: CMakeFiles/mbphistory.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kaloyan/linked-list-sprint-project-mbphistory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/mbphistory.dir/src/event/event_io.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mbphistory.dir/src/event/event_io.cpp.o -MF CMakeFiles/mbphistory.dir/src/event/event_io.cpp.o.d -o CMakeFiles/mbphistory.dir/src/event/event_io.cpp.o -c /home/kaloyan/linked-list-sprint-project-mbphistory/src/event/event_io.cpp
+
+CMakeFiles/mbphistory.dir/src/event/event_io.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/mbphistory.dir/src/event/event_io.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kaloyan/linked-list-sprint-project-mbphistory/src/event/event_io.cpp > CMakeFiles/mbphistory.dir/src/event/event_io.cpp.i
+
+CMakeFiles/mbphistory.dir/src/event/event_io.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/mbphistory.dir/src/event/event_io.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kaloyan/linked-list-sprint-project-mbphistory/src/event/event_io.cpp -o CMakeFiles/mbphistory.dir/src/event/event_io.cpp.s
+
+CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o: CMakeFiles/mbphistory.dir/flags.make
+CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o: /home/kaloyan/linked-list-sprint-project-mbphistory/src/menu/menu_display.cpp
+CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o: CMakeFiles/mbphistory.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kaloyan/linked-list-sprint-project-mbphistory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o -MF CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o.d -o CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o -c /home/kaloyan/linked-list-sprint-project-mbphistory/src/menu/menu_display.cpp
+
+CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kaloyan/linked-list-sprint-project-mbphistory/src/menu/menu_display.cpp > CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.i
+
+CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kaloyan/linked-list-sprint-project-mbphistory/src/menu/menu_display.cpp -o CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.s
+
+CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o: CMakeFiles/mbphistory.dir/flags.make
+CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o: /home/kaloyan/linked-list-sprint-project-mbphistory/src/menu/menu_actions.cpp
+CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o: CMakeFiles/mbphistory.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kaloyan/linked-list-sprint-project-mbphistory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o -MF CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o.d -o CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o -c /home/kaloyan/linked-list-sprint-project-mbphistory/src/menu/menu_actions.cpp
+
+CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kaloyan/linked-list-sprint-project-mbphistory/src/menu/menu_actions.cpp > CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.i
+
+CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kaloyan/linked-list-sprint-project-mbphistory/src/menu/menu_actions.cpp -o CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.s
+
 # Object files for target mbphistory
 mbphistory_OBJECTS = \
 "CMakeFiles/mbphistory.dir/main.cpp.o" \
-"CMakeFiles/mbphistory.dir/src/event/event_core.cpp.o"
+"CMakeFiles/mbphistory.dir/src/event/event_core.cpp.o" \
+"CMakeFiles/mbphistory.dir/src/event/event_io.cpp.o" \
+"CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o" \
+"CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o"
 
 # External object files for target mbphistory
 mbphistory_EXTERNAL_OBJECTS =
 
 mbphistory: CMakeFiles/mbphistory.dir/main.cpp.o
 mbphistory: CMakeFiles/mbphistory.dir/src/event/event_core.cpp.o
+mbphistory: CMakeFiles/mbphistory.dir/src/event/event_io.cpp.o
+mbphistory: CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o
+mbphistory: CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o
 mbphistory: CMakeFiles/mbphistory.dir/build.make
 mbphistory: /usr/lib/x86_64-linux-gnu/libcurses.so
 mbphistory: /usr/lib/x86_64-linux-gnu/libform.so
 mbphistory: CMakeFiles/mbphistory.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/kaloyan/linked-list-sprint-project-mbphistory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable mbphistory"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/kaloyan/linked-list-sprint-project-mbphistory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable mbphistory"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mbphistory.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

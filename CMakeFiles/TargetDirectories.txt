@@ -1,0 +1,3 @@
+/home/kaloyan/linked-list-sprint-project-mbphistory/CMakeFiles/mbphistory.dir
+/home/kaloyan/linked-list-sprint-project-mbphistory/CMakeFiles/edit_cache.dir
+/home/kaloyan/linked-list-sprint-project-mbphistory/CMakeFiles/rebuild_cache.dir

@@ -81,12 +81,12 @@ clean: CMakeFiles/mbphistory.dir/clean
 CMakeFiles/mbphistory.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbphistory.dir/build.make CMakeFiles/mbphistory.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbphistory.dir/build.make CMakeFiles/mbphistory.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kaloyan/linked-list-sprint-project-mbphistory/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target mbphistory"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/kaloyan/linked-list-sprint-project-mbphistory/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target mbphistory"
 .PHONY : CMakeFiles/mbphistory.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/mbphistory.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kaloyan/linked-list-sprint-project-mbphistory/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kaloyan/linked-list-sprint-project-mbphistory/cmake-build-debug/CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/mbphistory.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/kaloyan/linked-list-sprint-project-mbphistory/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/mbphistory.dir/rule

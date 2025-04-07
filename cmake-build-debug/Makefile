@@ -177,6 +177,78 @@ src/event/event_core.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbphistory.dir/build.make CMakeFiles/mbphistory.dir/src/event/event_core.cpp.s
 .PHONY : src/event/event_core.cpp.s
 
+src/event/event_io.o: src/event/event_io.cpp.o
+.PHONY : src/event/event_io.o
+
+# target to build an object file
+src/event/event_io.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbphistory.dir/build.make CMakeFiles/mbphistory.dir/src/event/event_io.cpp.o
+.PHONY : src/event/event_io.cpp.o
+
+src/event/event_io.i: src/event/event_io.cpp.i
+.PHONY : src/event/event_io.i
+
+# target to preprocess a source file
+src/event/event_io.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbphistory.dir/build.make CMakeFiles/mbphistory.dir/src/event/event_io.cpp.i
+.PHONY : src/event/event_io.cpp.i
+
+src/event/event_io.s: src/event/event_io.cpp.s
+.PHONY : src/event/event_io.s
+
+# target to generate assembly for a file
+src/event/event_io.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbphistory.dir/build.make CMakeFiles/mbphistory.dir/src/event/event_io.cpp.s
+.PHONY : src/event/event_io.cpp.s
+
+src/menu/menu_actions.o: src/menu/menu_actions.cpp.o
+.PHONY : src/menu/menu_actions.o
+
+# target to build an object file
+src/menu/menu_actions.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbphistory.dir/build.make CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o
+.PHONY : src/menu/menu_actions.cpp.o
+
+src/menu/menu_actions.i: src/menu/menu_actions.cpp.i
+.PHONY : src/menu/menu_actions.i
+
+# target to preprocess a source file
+src/menu/menu_actions.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbphistory.dir/build.make CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.i
+.PHONY : src/menu/menu_actions.cpp.i
+
+src/menu/menu_actions.s: src/menu/menu_actions.cpp.s
+.PHONY : src/menu/menu_actions.s
+
+# target to generate assembly for a file
+src/menu/menu_actions.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbphistory.dir/build.make CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.s
+.PHONY : src/menu/menu_actions.cpp.s
+
+src/menu/menu_display.o: src/menu/menu_display.cpp.o
+.PHONY : src/menu/menu_display.o
+
+# target to build an object file
+src/menu/menu_display.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbphistory.dir/build.make CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o
+.PHONY : src/menu/menu_display.cpp.o
+
+src/menu/menu_display.i: src/menu/menu_display.cpp.i
+.PHONY : src/menu/menu_display.i
+
+# target to preprocess a source file
+src/menu/menu_display.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbphistory.dir/build.make CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.i
+.PHONY : src/menu/menu_display.cpp.i
+
+src/menu/menu_display.s: src/menu/menu_display.cpp.s
+.PHONY : src/menu/menu_display.s
+
+# target to generate assembly for a file
+src/menu/menu_display.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mbphistory.dir/build.make CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.s
+.PHONY : src/menu/menu_display.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +264,15 @@ help:
 	@echo "... src/event/event_core.o"
 	@echo "... src/event/event_core.i"
 	@echo "... src/event/event_core.s"
+	@echo "... src/event/event_io.o"
+	@echo "... src/event/event_io.i"
+	@echo "... src/event/event_io.s"
+	@echo "... src/menu/menu_actions.o"
+	@echo "... src/menu/menu_actions.i"
+	@echo "... src/menu/menu_actions.s"
+	@echo "... src/menu/menu_display.o"
+	@echo "... src/menu/menu_display.i"
+	@echo "... src/menu/menu_display.s"
 .PHONY : help
 
 

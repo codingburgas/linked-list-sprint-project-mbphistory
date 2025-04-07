@@ -10,6 +10,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/kaloyan/linked-list-sprint-project-mbphistory/main.cpp" "CMakeFiles/mbphistory.dir/main.cpp.o" "gcc" "CMakeFiles/mbphistory.dir/main.cpp.o.d"
   "/home/kaloyan/linked-list-sprint-project-mbphistory/src/event/event_core.cpp" "CMakeFiles/mbphistory.dir/src/event/event_core.cpp.o" "gcc" "CMakeFiles/mbphistory.dir/src/event/event_core.cpp.o.d"
+  "/home/kaloyan/linked-list-sprint-project-mbphistory/src/event/event_io.cpp" "CMakeFiles/mbphistory.dir/src/event/event_io.cpp.o" "gcc" "CMakeFiles/mbphistory.dir/src/event/event_io.cpp.o.d"
+  "/home/kaloyan/linked-list-sprint-project-mbphistory/src/menu/menu_actions.cpp" "CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o" "gcc" "CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o.d"
+  "/home/kaloyan/linked-list-sprint-project-mbphistory/src/menu/menu_display.cpp" "CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o" "gcc" "CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

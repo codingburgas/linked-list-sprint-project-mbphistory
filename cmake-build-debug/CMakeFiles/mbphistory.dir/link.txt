@@ -1,1 +1,1 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/mbphistory.dir/main.cpp.o CMakeFiles/mbphistory.dir/src/event/event_core.cpp.o -o mbphistory  -lcurses -lform
+/usr/bin/c++ -g -rdynamic CMakeFiles/mbphistory.dir/main.cpp.o CMakeFiles/mbphistory.dir/src/event/event_core.cpp.o CMakeFiles/mbphistory.dir/src/event/event_io.cpp.o CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o -o mbphistory  -lcurses -lform
