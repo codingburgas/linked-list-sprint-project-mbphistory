@@ -12,7 +12,6 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/kaloyan/linked-list-sprint-project-mbphistory/src/event/event_manager.cpp" "CMakeFiles/mbphistory.dir/src/event/event_manager.cpp.o" "gcc" "CMakeFiles/mbphistory.dir/src/event/event_manager.cpp.o.d"
   "/home/kaloyan/linked-list-sprint-project-mbphistory/src/menu/menu_actions.cpp" "CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o" "gcc" "CMakeFiles/mbphistory.dir/src/menu/menu_actions.cpp.o.d"
   "/home/kaloyan/linked-list-sprint-project-mbphistory/src/menu/menu_display.cpp" "CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o" "gcc" "CMakeFiles/mbphistory.dir/src/menu/menu_display.cpp.o.d"
-  "" "mbphistory" "gcc" "CMakeFiles/mbphistory.dir/link.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

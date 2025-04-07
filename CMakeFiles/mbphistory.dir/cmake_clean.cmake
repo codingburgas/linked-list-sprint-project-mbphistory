@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/mbphistory.dir/link.d"
   "CMakeFiles/mbphistory.dir/main.cpp.o"
   "CMakeFiles/mbphistory.dir/main.cpp.o.d"
   "CMakeFiles/mbphistory.dir/src/event/event_manager.cpp.o"
