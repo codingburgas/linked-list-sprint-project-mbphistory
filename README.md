@@ -65,7 +65,8 @@ This project is designed to run on Linux (or via WSL on Windows) and adheres to 
   <h4>Presentation</h4>
   <ul>    
     <li><a href="./Documentation/MBP_PRESENTATION.pptx">Presentation</a></li>
-  </ul> 
+  </ul>
+  
 ## Used Technologies
 
 ### Code & Collaboration:
