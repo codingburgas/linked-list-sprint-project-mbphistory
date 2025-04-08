@@ -57,14 +57,15 @@ This project is designed to run on Linux (or via WSL on Windows) and adheres to 
    ```bash
    ./mbphistory
 
-## Documentation
-
-- **[Project Documentation](https://your-documentation-link.example.com)**  
-  Detailed technical documentation covering design, block diagrams, and descriptions of key functions.
-
-- **[Presentation](https://your-presentation-link.example.com)**  
-  Slide deck presenting the project overview, implemented features, and future enhancements.
-
+## Documents
+<h4>Documentation</h4>
+  <ul>
+    <li> <a href="./Documentation/Documentation-MBPHistory.docx">Documentation</a></li>
+  </ul> 
+  <h4>Presentation</h4>
+  <ul>    
+    <li><a href="./Documentation/MBP_PRESENTATION.pptx">Presentation</a></li>
+  </ul> 
 ## Used Technologies
 
 ### Code & Collaboration:
