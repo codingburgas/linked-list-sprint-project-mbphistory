@@ -58,13 +58,13 @@ This project is designed to run on Linux (or via WSL on Windows) and adheres to 
    ./mbphistory
 
 ## Documents
-<h4>Documentation</h4>
-  <ul>
-    <li> <a href="./Documentation/Documentation-MBPHistory.docx">Documentation</a></li>
-  </ul> 
+  <h4>Documentation</h4>
+  <ul>    
+    <li><a href="./Documentation/Documentation-MBPHistory.docx">Presentation</a></li>
+  </ul>
   <h4>Presentation</h4>
   <ul>    
-    <li><a href="./Documentation/MBP_PRESENTATION.pptx">Presentation</a></li>
+    <li><a href="./Documentation/Presentation-MBPHistory.pptx">Presentation</a></li>
   </ul>
   <h4>QA Documentation</h4>
   <ul>    
